@@ -1,0 +1,9 @@
+
+
+.profile {
+    /* background-image: url(./img/profile.jpg);
+    height: 100%;   */
+    grid-area: c;
+    background-color: rgb(243, 169, 169);
+    }
+    
