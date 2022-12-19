@@ -1,7 +1,7 @@
 import React from 'react';
-import './Profile.css';
+import classes from './Profile.module.css'
 const Profile = () => {
-    return <div className='profile'>
+    return <div className={classes.profile}>
     <div>
     {/* <img src={require('./img/profile.jpg').default} alt='mops'/> */}
     <img src="https://onbog.com/wp-content/uploads/2019/08/mountain-summit-landscape-horizon-sky-stars-b470-1200x480.jpg"alt=""></img>
